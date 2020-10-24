@@ -16,9 +16,13 @@ class ExperienceAccordion extends Component {
                 title={section["title"]}
                 key={section["title"]}
               >
-                {section["experiences"].map((experience) => {
+                {section["experiences"].map((experience, index) => {
                   return (
-                    <ExperienceCard experience={experience} theme={theme} />
+                    <ExperienceCard
+                      key={index}
+                      experience={experience}
+                      theme={theme}
+                    />
                   );
                 })}
               </Panel>

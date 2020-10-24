@@ -2,6 +2,77 @@
   "closed": 1,
   "data": [
     {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MTkyOTA0",
+      "title": "Dev to Prod",
+      "url": "https://github.com/app-sphere-softwares-llp/assign.work/pull/120",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/17807062?u=293094efcd109bfa2dabb2ecd18f31ccd0ea5bf1&v=4",
+        "url": "https://github.com/AppSphere",
+        "login": "AppSphere"
+      },
+      "createdAt": "2020-09-13T14:51:30Z",
+      "number": 120,
+      "changedFiles": 5,
+      "additions": 7,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "assign.work",
+        "url": "https://github.com/app-sphere-softwares-llp/assign.work",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/53650607?v=4",
+          "login": "app-sphere-softwares-llp",
+          "url": "https://github.com/app-sphere-softwares-llp"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MTg5ODI0",
+      "title": "close sprint email issue fixes",
+      "url": "https://github.com/app-sphere-softwares-llp/assign.work/pull/119",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/17807062?u=293094efcd109bfa2dabb2ecd18f31ccd0ea5bf1&v=4",
+        "url": "https://github.com/AppSphere",
+        "login": "AppSphere"
+      },
+      "createdAt": "2020-09-13T14:27:23Z",
+      "number": 119,
+      "changedFiles": 5,
+      "additions": 7,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "assign.work",
+        "url": "https://github.com/app-sphere-softwares-llp/assign.work",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/53650607?v=4",
+          "login": "app-sphere-softwares-llp",
+          "url": "https://github.com/app-sphere-softwares-llp"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgxMzE4MTUy",
+      "title": "linting fixes on commit",
+      "url": "https://github.com/app-sphere-softwares-llp/GiddhApp/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-09-07T11:45:30Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 14,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "GiddhApp",
+        "url": "https://github.com/app-sphere-softwares-llp/GiddhApp",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/53650607?v=4",
+          "login": "app-sphere-softwares-llp",
+          "url": "https://github.com/app-sphere-softwares-llp"
+        }
+      }
+    },
+    {
       "id": "MDExOlB1bGxSZXF1ZXN0NDgwNDQzNzQ3",
       "title": "Dev to Prod",
       "url": "https://github.com/app-sphere-softwares-llp/assign.work/pull/118",
@@ -1448,7 +1519,7 @@
       }
     }
   ],
-  "merged": 57,
-  "open": 0,
-  "totalCount": 58
+  "merged": 59,
+  "open": 1,
+  "totalCount": 61
 }
